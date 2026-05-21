@@ -41,8 +41,24 @@
 ### 2\. 安装依赖包
 
 install.packages("data.table")
+
 install.packages("ggplot2")
+
 install.packages("ggpubr")
+
 install.packages("scales")
+
 install.packages("ggpmisc")
+
+### 3\. 运行与修改代码
+
+将下载的代码在RStudio中打开
+
+改变代码中读取文件的位置，改成本地数据的保存位置
+
+调整代码中图片的参数
+
+更改保存位置
+
+运行
 
